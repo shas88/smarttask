@@ -25,9 +25,10 @@ SmartTask is a modern Laravel 12 web app for managing personal or team tasks wit
 ---
 
 ## 📸 Screenshots
-
-_(Add images once deployed – use `dashboard`, `task list`, `profile`)_
-
+https://github.com/shas88/smarttask/blob/main/login.png
+https://github.com/shas88/smarttask/blob/main/dashboard.png
+https://github.com/shas88/smarttask/blob/main/task.png
+https://github.com/shas88/smarttask/blob/main/taskcreate.png
 ---
 
 ## 🔧 Tech Stack
