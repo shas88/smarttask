@@ -34,10 +34,6 @@ It allows users to register, manage tasks, and update profiles with a clean dash
 ### 🛠️ Tech Stack
 Laravel · TailwindCSS · MySQL · PHP · Blade · Git · FTP
 
----
-
-### 📸 Screenshots (optional)
-*Add some screenshots of your dashboard and task UI here*
 
 ---
 
